@@ -1,0 +1,80 @@
+body{
+	background-color: lightyellow;
+	font-family: 'Vollkorn SC', serif;
+}
+
+
+header{
+	
+	 background: url('../img/pig.jpg') no-repeat center center; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	height:100vh;
+  	/*vh----responsive*/
+}
+
+.style1{
+	 style="position: absolute;
+	 visibility: hidden
+}
+
+	 margin-title{
+	margin-top: 40vh;
+}
+
+
+
+.navcolor{
+	background-color: lightyellow;
+}
+}
+
+.blue-html{
+	width:25%;
+	background-color: blue;
+
+}
+
+.red-html{
+	width:35%;
+	background-color: red;
+}
+
+.iconspacing1{
+	padding-left:30px;
+}
+
+.green{
+	background-color: green;
+}
+
+.aquablue{
+	background-color: aqua;
+}
+/*
+
+*/
+
+.margin-top{
+	margin-top: 30px;
+}
+
+.card-title{
+	
+}
+
+.card-text{
+	
+}
+
+.card-footer{
+	align-content: center;
+}
+
+.font1{
+	font-family: 'Vollkorn SC', serif;
+	font-weight: 900;
+
+	}
