@@ -24,8 +24,6 @@ header{
 	margin-top: 40vh;
 }
 
-
-
 .navcolor{
 	background-color: lightyellow;
 }
@@ -47,11 +45,24 @@ header{
 }
 
 .green{
+	width:100%;
 	background-color: green;
 }
 
 .aquablue{
+	width:100%;
 	background-color: aqua;
+}
+
+.green{
+	width:100%;
+	background-color: green;
+}
+
+.aquablue{
+	width: 100%;
+	background-color: aqua;
+
 }
 /*
 
@@ -62,19 +73,21 @@ header{
 }
 
 .card-title{
-	
+font-weight: 400	
 }
 
 .card-text{
 	
 }
-
 .card-footer{
 	align-content: center;
 }
-
 .font1{
 	font-family: 'Vollkorn SC', serif;
 	font-weight: 900;
-
-	}
+}
+.font2{
+	font-family: 'Vollkorn SC', serif;
+	font-size: 21px;
+	font-weight: bold;
+}
