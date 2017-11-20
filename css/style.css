@@ -1,7 +1,4 @@
-body{
-	background-color: lightyellow;
-	font-family: 'Vollkorn SC', serif;
-}
+
 
 
 header{
@@ -40,33 +37,31 @@ header{
 	background-color: red;
 }
 
+
+.green-html{
+	width:100%;
+	background-color: green;
+}
+
+.aquablue-html{
+	width:100%;
+	background-color: aqua;
+}
+
+.green-html{
+	width:100%;
+	background-color: green;
+}
+
 .iconspacing1{
 	padding-left:30px;
 }
 
-.green{
-	width:100%;
-	background-color: green;
+iframe{
+	max-width:95vw;
 }
-
-.aquablue{
-	width:100%;
-	background-color: aqua;
-}
-
-.green{
-	width:100%;
-	background-color: green;
-}
-
-.aquablue{
-	width: 100%;
-	background-color: aqua;
-
-}
-
-.iframe{
-	width=50%
+blockquote{
+	max-width: 95vw
 }
 /*
 
@@ -94,4 +89,15 @@ font-weight: 400
 	font-family: 'Vollkorn SC', serif;
 	font-size: 21px;
 	font-weight: bold;
+}
+
+
+.fontinfo{
+	font-size:15px;
+}
+
+
+.lyellow-html{
+	width:100%;
+	background-color: darkyellow; 
 }
