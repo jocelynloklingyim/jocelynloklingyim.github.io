@@ -38,10 +38,6 @@ header{
 }
 
 
-.green-html{
-	width:100%;
-	background-color: green;
-}
 
 .aquablue-html{
 	width:100%;
@@ -49,7 +45,11 @@ header{
 }
 
 .green-html{
-	width:100%;
+	width:95%;
+	background-color: green;
+}
+.green1-html{
+	width:90%;
 	background-color: green;
 }
 
