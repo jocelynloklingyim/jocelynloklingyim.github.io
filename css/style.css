@@ -85,6 +85,13 @@ font-weight: 400
 	font-family: 'Vollkorn SC', serif;
 	font-weight: 900;
 }
+
+.font1_1{
+	font-family: 'Vollkorn SC', serif;
+	text-align: left;
+	font-weight: 900;
+	font-size: 32px
+}
 .font2{
 	font-family: 'Vollkorn SC', serif;
 	font-size: 21px;
