@@ -1,0 +1,110 @@
+
+
+
+header{
+	
+	 background: url('../img/pig.jpg') no-repeat center center; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	height:100vh;
+  	/*vh----responsive*/
+}
+
+.style1{
+	 style="position: absolute;
+	 visibility: hidden
+}
+
+ margin-title{
+	margin-top: 40vh;
+}
+
+.navcolor{
+	background-color: lightyellow;
+}
+
+
+.blue-html{
+	width:25%;
+	background-color: blue;
+
+}
+
+.red-html{
+	width:35%;
+	background-color: red;
+}
+
+
+
+.aquablue-html{
+	width:100%;
+	background-color: aqua;
+}
+
+.green-html{
+	width:95%;
+	background-color: green;
+}
+.green1-html{
+	width:90%;
+	background-color: green;
+}
+
+.iconspacing1{
+	padding-left:30px;
+}
+
+iframe{
+	max-width:95vw;
+}
+blockquote{
+	max-width: 95vw
+}
+/*
+
+*/
+
+.margin-top{
+	margin-top: 30px;
+}
+
+.card-title{
+font-weight: 400	
+}
+
+.card-text{
+	
+}
+.card-footer{
+	align-content: center;
+}
+.font1{
+	font-family: 'Vollkorn SC', serif;
+	font-weight: 900;
+}
+
+.font1_1{
+	font-family: 'Vollkorn SC', serif;
+	text-align: left;
+	font-weight: 900;
+	font-size: 32px
+}
+.font2{
+	font-family: 'Vollkorn SC', serif;
+	font-size: 21px;
+	font-weight: bold;
+}
+
+
+.fontinfo{
+	font-size:15px;
+}
+
+
+.lyellow-html{
+	width:100%;
+	background-color: darkyellow; 
+}
